@@ -4,7 +4,8 @@ Index
                     Access Specifiers ,
                     Encaspsulation.
 2. Constructor.
+3. Destructor .
 
-2. Inheritance =    Single Inheritance , 
+4. Inheritance =    Single Inheritance , 
                     Multiple Inheritance , 
                     Multilevel Inheritance , Hier
