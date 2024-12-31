@@ -2,6 +2,7 @@
 // A friend function is a function that is given special access to the private and protected members of the class , even though it is not a member of the class.
 // Useful when you want to allow an external function to access the private data of class for certain operations while keeping those data encapsulated for other part of code
 // declared inside class using the keyword friend , defined outside the class.
+// Friend fucntions are not inherited in child classes
 
 #include<iostream>
 using namespace std;
@@ -40,6 +41,8 @@ using namespace std;
 // Key Points about Friend Classes
 // 1. One-Way Friendship: If ClassA is declared as a friend of ClassB, only ClassA can access ClassB's private/protected members. ClassB cannot access ClassA's private members unless it’s explicitly made a friend of ClassA as well.
 // 2. Declared in the Class: Friendship is declared in the class that’s granting access, not in the friend class itself.
+// 3. Use Sparingly: Friend classes bypass encapsulation, so use them sparingly to avoid compromising the design’s integrity.
+// 4. Friend Classes are not Inherited: Friend classes are not inherited by derived classes.
 
 class Box{
 private:

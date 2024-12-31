@@ -50,8 +50,6 @@ using namespace std;
 // };
 
 // int main(){
-//     // Parent p;
-//     // p.show();
 //     Child c;
 //     c.show();
 //     return 0;

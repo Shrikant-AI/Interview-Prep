@@ -1,5 +1,5 @@
 //* Abstraction
-// is the concept of hinding the complex implementaion details (unnecessary details) and exposing only the only essential features of objects.
+// is the concept of hinding the complex implementaion details (unnecessary details) and exposing only the essential features of objects.
 // In cpp, abstraction is achieved by using abstract classes (classes with pure virtual functions).This class specify what function should derived class implement without specifying how.
 
 // Key features / prop =

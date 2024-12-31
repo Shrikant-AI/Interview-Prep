@@ -14,3 +14,48 @@
 6. Abstraction
 7. Static Keyword
 8. Friend Function & Friend Class
+
+
+
+abstraction , interface  , 
+run time vs compile time poly
+
+-----------------------------------------------------------------
+Here’s a list of essential Object-Oriented Programming (OOP) topics to cover for interviews:
+
+1. **Fundamental Concepts**
+   - Classes and Objects
+   - Encapsulation
+   - Abstraction
+   - Inheritance
+   - Polymorphism (Compile-time and Run-time)
+
+2. **Key Principles**
+   - SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
+   - DRY (Don’t Repeat Yourself) and KISS (Keep It Simple, Stupid) principles
+
+3. **Advanced Topics**
+   - Interfaces and Abstract Classes
+   - Method Overloading and Overriding
+   - Composition vs. Inheritance
+   - Static and Dynamic Binding
+   - Constructors and Destructors
+
+4. **Design Patterns (Common in OOP)**
+   - Creational Patterns: Singleton, Factory, Builder
+   - Structural Patterns: Adapter, Decorator, Proxy
+   - Behavioral Patterns: Strategy, Observer, Command
+
+5. **Object Relationships**
+   - Association, Aggregation, Composition
+   - Dependency Injection and Inversion of Control
+
+6. **Memory Management in OOP**
+   - Stack vs. Heap memory
+   - Garbage Collection (especially for languages like Java)
+
+7. **Real-World Use Cases**
+   - Examples of OOP in frameworks/libraries
+   - Common OOP challenges and how to resolve them
+
+Would you like details on any specific topic?
